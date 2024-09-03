@@ -1,5 +1,5 @@
 {
-    "name": "pxt-mfrc522",
+    "name": "mfrc522",
     "version": "1.0.0",
     "description": "MakeCode package for the MFRC522 RFID module.",
     "dependencies": {
